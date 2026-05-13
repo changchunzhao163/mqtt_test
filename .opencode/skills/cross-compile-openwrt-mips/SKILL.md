@@ -1,4 +1,7 @@
-# Skill: Cross-Compile for OpenWrt MIPS (mt76xx)
+---
+name: cross-compile-openwrt-mips
+description: Cross-compile environment, deploy flow, SSH credentials, and MQTT test server for OpenWrt MIPS (mt76xx) target boards
+---
 
 ## Environment
 
